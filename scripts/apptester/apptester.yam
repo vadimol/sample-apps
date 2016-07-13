@@ -1,0 +1,11 @@
+# This file contains default configuration parameters for apptester tool.
+
+# Apptester default settings
+builddir: "apptester_build"
+appconfig: "apps.yam"
+
+# Kaa Sever default settings
+host: "localhost"
+port: 8080
+user: "devuser"
+password: "devuser123"
